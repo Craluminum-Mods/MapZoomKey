@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "client",
+    "modid": "mapzoomkey",
+    "name": "Map Zoom Key",
+    "description": "Use keyboard to zoom map",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}

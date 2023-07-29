@@ -1,0 +1,4 @@
+Icons:
+plus minus (modicon.png):
+    Link: https://www.svgrepo.com/svg/430393/plus-minus-2-line
+    Changes: Applied to map image, merged black 50% thickness with white 75% thickness
